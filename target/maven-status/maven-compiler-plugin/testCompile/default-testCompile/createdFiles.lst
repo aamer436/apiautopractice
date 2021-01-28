@@ -1,0 +1,9 @@
+stepDef\GitGetApi.class
+stepDef\Hooks.class
+stepDef\Paypal_Steps.class
+stepDef\ReqResAPIParsing.class
+runner\ParallelTestRunner.class
+stepDef\Facebookoauth2setup.class
+stepDef\NewApiParsing.class
+stepDef\Twitter_ExploreTwitter.class
+runner\TestRunner.class
